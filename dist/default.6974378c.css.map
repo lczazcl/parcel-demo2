@@ -1,0 +1,1 @@
+{"version":3,"sources":["default.scss"],"names":[],"mappings":"AAAA,KACE,eACA,OACE,WAEF,QACE","file":"default.6974378c.css","sourceRoot":"..","sourcesContent":["body{\r\n  background:red;\r\n  p{\r\n    color:blue;\r\n  }\r\n  h1{\r\n    background:#FFF;\r\n  }\r\n}"]}
